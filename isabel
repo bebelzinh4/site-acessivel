@@ -1,0 +1,32 @@
+# 🦾 Projeto com Botão de Acessibilidade
+
+Este projeto demonstra como criar um botão de acessibilidade fixo na tela que, ao passar o mouse, exibe opções como:
+
+- Aumentar fonte  
+- Diminuir fonte  
+- Ativar alto contraste  
+
+---
+
+## 📌 Como funciona
+
+- O botão é posicionado usando **CSS**
+- As opções aparecem ao passar o mouse (**hover**) utilizando **JavaScript**
+- A estilização adicional e melhorias podem ser feitas conforme necessário
+
+---
+
+## 🖼️ Referências das Imagens
+
+Preencha as informações abaixo conforme as imagens que usou no projeto:
+
+| Nome da imagem | Link | Descrição |
+|----------------|------|-----------|
+| imagem1.png | https://... | Ícone de acessibilidade |
+| imagem2.jpg | https://... | Exemplo de layout |
+| ... | ... | ... |
+
+---
+
+## 📁 Estrutura do Projeto
+
